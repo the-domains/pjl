@@ -1,0 +1,14 @@
+layout_spectrum: 0.11826212937012315
+typography_spectrum: 0.2131419877987355
+color:
+  brandStrength: 0.8523578813765198
+  lightness: 0.03653826075606048
+  saturation: 0.8621255739126354
+  rhythmicContrast: 0.062177339335903525
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: pjl
